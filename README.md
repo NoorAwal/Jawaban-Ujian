@@ -1,2 +1,2 @@
 # Jawaban-Ujian
-Ujian mengikuti seleksi Bootcamp Arkademy batch 16
+Kegunaan JSON pada REST API sebuah format data yang digunakan untuk pertukaran dan penyimpanan data
